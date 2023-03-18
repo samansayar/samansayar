@@ -20,11 +20,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:samansayyar.dev@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-
-📈 my github stats
-
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=samansayar&show_icons=true&theme=gotham)" alt="samansayyar" />
-
 <!--
 **samansayar/samansayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
