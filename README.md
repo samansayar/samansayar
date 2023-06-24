@@ -6,19 +6,19 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/samansayar/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=samansayar)
 
 <br />
 
-Hi, i'm [smansayyar](https://instagram.com/samansayyar/), a passionate self-taught full stack web developer and a freelance software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [samansayyar](https://instagram.com/samansayyar/), a passionate self-taught full-stack web developer and a freelance software engineer from Iran. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
 - 💼 any freelance work? do reach, [email](mailto:samansayyar.dev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 <!--
 **samansayar/samansayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
