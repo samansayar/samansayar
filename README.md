@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm [samansayyar](https://instagram.com/samansayyar/), a passionate self-taught full-stack web developer and a freelance software engineer from Iran. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [samansayyar](https://samansayyar.com), a passionate self-taught full-stack web developer and a freelance software engineer from Iran. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
